@@ -22,8 +22,7 @@ public class ProblemSet1 {
 		System.out.println("######## ######  #        ########");
 		System.out.println("#      # #       #               #");
 		System.out.println("#      # #       #               #");
-		System.out.println("#      # #       ######## ########");
-		System.out.println("\n");
+		System.out.println("#      # #       ######## ########\n");
 		//Exercise 2
 		System.out.println("/// EXERCISE 2 /////////////////////////////////////////////////\n");
 		System.out.println("  /\\     /\\     /\\");
@@ -40,8 +39,15 @@ public class ProblemSet1 {
 		System.out.println(" |   ^   |");
 		System.out.println(" |  '-'  |");
 		System.out.println("  +-----+\n");
+		//Exercise 4
 		System.out.println("/// EXERCISE 4 /////////////////////////////////////////////////\n");
-		
+		System.out.println("H E L L O");
+		System.out.println("E       A");
+		System.out.println("L       P");
+		System.out.println("L       C");
+		System.out.println("O A P C S\n");
+		//Exercise 5
 		System.out.println("/// EXERCISE 5 /////////////////////////////////////////////////\n");
+		System.out.println("\"The answer's quite simple,\" the professor said. \"Just think outside the box!\"\n");
 	}
 }
